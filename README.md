@@ -1,2 +1,2 @@
 # Examen-info
-## biblioscience.free.nf
+## http://biblioscience.free.nf
